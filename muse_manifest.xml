@@ -1,0 +1,382 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maisonchateauneuf.fr/medusa" resolutions="1x" timestamp="1505415008824">
+  <folder name="css">
+    <file name="site_global.css" crc="146881234"/>
+    <file name="master_a-maestra.css" crc="3820761477" ref="project-2:awards:notebook:project:project-3:team:achievements:modeling:project-1:index:human-practices"/>
+    <file name="project-2.css" crc="261423739" ref="project-2"/>
+    <file name="awards.css" crc="261423739" ref="awards"/>
+    <file name="notebook.css" crc="261423739" ref="notebook"/>
+    <file name="project.css" crc="267478138" ref="project"/>
+    <file name="project-3.css" crc="261423739" ref="project-3"/>
+    <file name="team.css" crc="4025727311" ref="team"/>
+    <file name="achievements.css" crc="261423739" ref="achievements"/>
+    <file name="modeling.css" crc="261423739" ref="modeling"/>
+    <file name="project-1.css" crc="4642809" ref="project-1"/>
+    <file name="index.css" crc="4200615421" ref="index"/>
+    <file name="human-practices.css" crc="261423739" ref="human-practices"/>
+  </folder>
+  <folder name="assets">
+    <file name="modern-team-page.muse" crc="440482727" seo="true" mt="1406877003000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="museutils.js" crc="17924269" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="museconfig.js" crc="278381782" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="require.js" crc="3861931657" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3"/>
+    <file name="webpro.js" crc="416662029" ref="team"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="team"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="team"/>
+    <file name="touchswipe.js" crc="432264157" ref="team"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_medusa.svg" crc="4172289584" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo_medusa_poster_.png" crc="4230480734" ref="index"/>
+    <file name="logo-igem-greyscale.svg" crc="4138287092" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-igem-greyscale_poster_.png" crc="3892179207" ref="index"/>
+    <file name="logo-facebook.svg" crc="3934649393" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-facebook_poster_.png" crc="297847" ref="index"/>
+    <file name="logo-instagram.svg" crc="24152118" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-instagram_poster_.png" crc="4151707496" ref="index"/>
+    <file name="logo-twitter.svg" crc="313777186" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-twitter_poster_.png" crc="90897901" ref="index"/>
+    <file name="header-home-animado.gif" crc="3964752341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animacion-picto-bm.gif" crc="246350070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animacion-picto-opto.gif" crc="242435740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animacion-picto-rna.gif" crc="297139977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-footer-biolabs.jpg" crc="418519263" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-idt.jpg" crc="423440954" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-roth.jpg" crc="3954870406" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-paris-diderot.jpg" crc="88781837" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-thermo.jpg" crc="4080250763" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-matlab.jpg" crc="3770278075" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-geneious.jpg" crc="36941474" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-inserm.jpg" crc="4289274987" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-paris-descartes.jpg" crc="243100583" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-scire.jpg" crc="461036415" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-cri.jpg" crc="339213854" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-fondation-bettencourt.jpg" crc="340525347" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-igem-paris-bettencourt.jpg" crc="3793138485" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="logo-footer-igem.jpg" crc="4163725499" seo="true" ref="index:project:modeling:achievements:human-practices:notebook:awards:team:project-1:project-2:project-3">
+      <caption webpage="human-practices" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="achievements" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-3" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="project-1" alt=""/>
+      <caption webpage="project-2" alt=""/>
+      <caption webpage="modeling" alt=""/>
+      <caption webpage="notebook" alt=""/>
+    </file>
+    <file name="header-team.jpg" crc="4198961306" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="img02.jpg" crc="4205418132" ref="team">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="email.png" crc="472657963" ref="team">
+      <caption webpage="team" alt="24 years old"/>
+      <caption webpage="team" alt="john.smith@website.com"/>
+      <caption webpage="team" alt="ali.lowe@website.com"/>
+      <caption webpage="team" alt="jim.watson@website.com"/>
+      <caption webpage="team" alt="andre.walis@website.com"/>
+      <caption webpage="team" alt="jane.doe@website.com"/>
+      <caption webpage="team" alt="steve.smith@website.com"/>
+      <caption webpage="team" alt="marissa.genth@website.com"/>
+      <caption webpage="team" alt="gary.lanhal@website.com"/>
+      <caption webpage="team" alt="kate.fox@website.com"/>
+    </file>
+    <file name="photo-alma.jpg" crc="113074942" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="web.png" crc="3890584804" ref="team">
+      <caption webpage="team" alt="john.smith"/>
+      <caption webpage="team" alt="ali.lowe"/>
+      <caption webpage="team" alt="jim.watson"/>
+      <caption webpage="team" alt="andre.walis"/>
+      <caption webpage="team" alt="jane.doe"/>
+      <caption webpage="team" alt="steve.smith"/>
+      <caption webpage="team" alt="marissa.genth"/>
+      <caption webpage="team" alt="gary.lanhal"/>
+      <caption webpage="team" alt="kate.fox"/>
+    </file>
+    <file name="facebook.png" crc="530121815" ref="team">
+      <caption webpage="team" alt="john.smith"/>
+      <caption webpage="team" alt="ali.lowe"/>
+      <caption webpage="team" alt="jim.watson"/>
+      <caption webpage="team" alt="andre.walis"/>
+      <caption webpage="team" alt="jane.doe"/>
+      <caption webpage="team" alt="steve.smith"/>
+      <caption webpage="team" alt="marissa.genth"/>
+      <caption webpage="team" alt="gary.lanhal"/>
+      <caption webpage="team" alt="kate.fox"/>
+    </file>
+    <file name="twitter.png" crc="3769036685" ref="team">
+      <caption webpage="team" alt="@johnsmith"/>
+      <caption webpage="team" alt="@alilowe"/>
+      <caption webpage="team" alt="@jimwatson"/>
+      <caption webpage="team" alt="@andrewalis"/>
+      <caption webpage="team" alt="@janedoe"/>
+      <caption webpage="team" alt="@stevesmith"/>
+      <caption webpage="team" alt="@marissagenth"/>
+      <caption webpage="team" alt="@garylanhal"/>
+      <caption webpage="team" alt="@katefox"/>
+    </file>
+    <file name="stock-photo-closeup-of-a-female-scientist-filling-test-tubes-with-pipette-in-laboratory-146154983-crop-u2196.jpg" crc="3916794458" seo="true" ref="project-1">
+      <caption webpage="project-1" alt=""/>
+    </file>
+    <file name="stock-photo-colony-of-bacteria-in-culture-medium-plate-346797638-crop-u2221.jpg" crc="372417251" seo="true" ref="project-1">
+      <caption webpage="project-1" alt=""/>
+    </file>
+    <file name="stock-photo-hands-of-a-researcher-carrying-out-scientific-research-in-a-lab-623354723-crop-u2353.jpg" crc="336874370" seo="true" ref="project-1">
+      <caption webpage="project-1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4234289446" seo="true" mt="1505414934724" redirect="true"/>
+  <file name="project.html" crc="4046215925" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="modeling.html" crc="4107565973" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="achievements.html" crc="333883565" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="human-practices.html" crc="112776702" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="notebook.html" crc="362670879" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="awards.html" crc="3937227372" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="team.html" crc="3852591649" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="project-1.html" crc="318824335" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="project-2.html" crc="72206808" seo="true" mt="1505414902584" redirect="true"/>
+  <file name="project-3.html" crc="411422345" seo="true" mt="1505414902584" redirect="true"/>
+</manifest>
