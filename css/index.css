@@ -25,8 +25,8 @@
 }
 #u200 {
     z-index: 79;
-    min-height: 86px;
-    padding-bottom: 12px;
+    position:fixed;
+    
 }
 #u193 {
     z-index: 80;
@@ -58,7 +58,7 @@
     height: 34px;
     position: relative;
     margin-right: -10000px;
-    margin-top: 33px;
+    
     margin-left: 100%;
     left: -787px;
 }
@@ -70,17 +70,17 @@
 }
 #u221 {
     width: 54px;
-    padding-bottom: 20px;
+    
     position: relative;
 }
 #u221:hover {
     width: 54px;
-    min-height: 0px;
-    margin: 0px;
+   
+   
 }
 #u221.MuseMenuActive {
     width: 54px;
-    min-height: 0px;
+    
     margin: 0px;
 }
 #u223-4 {
@@ -88,16 +88,10 @@
     min-height: 14px;
     position: relative;
     margin-right: -10000px;
-    top: 10px;
+  
     left: 8px;
 }
-#u221:hover #u223-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 14px;
-    width: 37px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u221.MuseMenuActive #u223-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -114,29 +108,19 @@
 }
 #u230 {
     width: 67px;
-    padding-bottom: 19px;
+   
     position: relative;
 }
-#u230:hover {
-    width: 67px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 #u233-4 {
     width: 50px;
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+   
     left: 8px;
 }
-#u230:hover #u233-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 50px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u266 {
     width: 81px;
     min-height: 34px;
@@ -146,14 +130,10 @@
 }
 #u267 {
     width: 81px;
-    padding-bottom: 19px;
+    
     position: relative;
 }
-#u267:hover {
-    width: 81px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 #u267.MuseMenuActive {
     width: 81px;
     min-height: 0px;
@@ -164,16 +144,10 @@
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+    
     left: 8px;
 }
-#u267:hover #u270-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 64px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u267.MuseMenuActive #u270-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -190,14 +164,10 @@
 }
 #u290 {
     width: 113px;
-    padding-bottom: 19px;
+    
     position: relative;
 }
-#u290:hover {
-    width: 113px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 #u290.MuseMenuActive {
     width: 113px;
     min-height: 0px;
@@ -208,16 +178,10 @@
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+    
     left: 8px;
 }
-#u290:hover #u293-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 96px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u290.MuseMenuActive #u293-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -234,14 +198,10 @@
 }
 #u311 {
     width: 132px;
-    padding-bottom: 19px;
+    
     position: relative;
 }
-#u311:hover {
-    width: 132px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 #u311.MuseMenuActive {
     width: 132px;
     min-height: 0px;
@@ -252,16 +212,10 @@
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+    
     left: 8px;
 }
-#u311:hover #u312-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 115px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u311.MuseMenuActive #u312-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -296,16 +250,10 @@
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+    
     left: 8px;
 }
-#u330:hover #u332-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 67px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u330.MuseMenuActive #u332-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -325,11 +273,7 @@
     padding-bottom: 19px;
     position: relative;
 }
-#u230.MuseMenuActive, #u351:hover {
-    width: 67px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 #u351.MuseMenuActive {
     width: 67px;
     min-height: 0px;
@@ -340,16 +284,10 @@
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+    
     left: 8px;
 }
-#u230.MuseMenuActive #u233-4, #u351:hover #u354-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 50px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u351.MuseMenuActive #u354-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -369,11 +307,7 @@
     padding-bottom: 19px;
     position: relative;
 }
-#u372:hover {
-    width: 51px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 #u372.MuseMenuActive {
     width: 51px;
     min-height: 0px;
@@ -384,16 +318,10 @@
     min-height: 15px;
     position: relative;
     margin-right: -10000px;
-    top: 9px;
+    
     left: 8px;
 }
-#u372:hover #u373-4 {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    min-height: 15px;
-    width: 35px;
-    margin: 0px -10000px 0px 0px;
-}
+
 #u372.MuseMenuActive #u373-4 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -405,7 +333,7 @@
     z-index: 133;
     position: relative;
     margin-right: -10000px;
-    margin-top: 38px;
+    
     width: 1.84%;
     left: 91.84%;
 }
@@ -417,7 +345,7 @@
     z-index: 135;
     position: relative;
     margin-right: -10000px;
-    margin-top: 38px;
+    
     width: 1.84%;
     left: 94.09%;
 }
@@ -429,7 +357,7 @@
     z-index: 131;
     position: relative;
     margin-right: -10000px;
-    margin-top: 38px;
+   
     width: 1.84%;
     left: 96.34%;
 }
@@ -454,6 +382,9 @@
     width: 100%;
     margin-left: 0%;
     left: 0px;
+    background: url(../images/header.gif);
+    background-position: center;
+    height: 400px;
 }
 #pu1585-5 {
     z-index: 33;
@@ -534,11 +465,7 @@
     position: relative;
     margin-left: 22.91%;
 }
-#u2552:hover {
-    width: 150px;
-    min-height: 0px;
-    margin: 0px 0px 0px 22.90909090909091%;
-}
+
 #u2552:active {
     width: 150px;
     min-height: 0px;
@@ -803,11 +730,63 @@ body {
     width: 100%;
 }
 
-
+#u1570{
+    margin-top:45px;
+    padding-top:20px;
+    height: 380px;
+}
 #u1570_img {
     
-    margin-top:  30px;
+   
+    width: 360px;
+    margin:  0 auto;
     
-    margin:  30px auto;
+}
+
+
+
+.MenuItemContainer :hover {
+    background-color:#E8292F;
+    color:white;
+    height:34px;
+}
+
+.MenuItemContainer a{
+ height:34px;
+}
+
+.MenuItemLabel{
+    padding-top:10px;
+}
+
+
+h1 
+{color:#E8292F;;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:48px;}
+
+.nav-menu {
+    list-style: none;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     
+}
+.nav-menu li {
+    display:block;
+    padding-top:5px;
+    height:24px;
+    
+    padding-left: 10px;
+    padding-top:10px;
+   
+}
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    display:block;
+   
+}
+
+.nav-menu li:hover {
+    background-color:#E8292F;
 }
