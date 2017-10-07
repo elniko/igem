@@ -382,7 +382,7 @@
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: url(../images/header.gif);
+    /*background: url(../images/header.gif);*/
     background-position: center;
     height: 400px;
 }
