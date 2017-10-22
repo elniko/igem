@@ -40,10 +40,7 @@ fieldset, img {
     -o-transform-origin: left top;
     transform-origin: left top;
 }
-address, caption, cite, code, dfn, em, strong, th, var, optgroup {
-    font-style: inherit;
-    font-weight: inherit;
-}
+
 del, ins {
     text-decoration: none;
 }
