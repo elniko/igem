@@ -111,38 +111,14 @@ section.page-footer p {
 
 
 
-
-.nav-menu {
-    list-style: none;
-    display: -webkit-flex;
-    display: flex;
-    
-    
-}
-.nav-menu li {
-    display:block;
-    padding-top:5px;
-   
-    
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top:10px;
-   
-   
-}
-.nav-menu a {
-    color: #7F7F7F;
-    text-decoration: none;
-    display:block;
-    width:max-content;
-   
-}
-
-.nav-menu li:hover {
-    background-color:#E8292F;
+.home-link a {
     color: white;
+    display: block;
+    text-decoration: none;
+    width: 25px;
+    font-size: 26px;
+    padding-top: 6px;
 }
-
     
 ul.wtf-menu{
     height:50px;
@@ -166,11 +142,12 @@ ul.wtf-menu{
     color: #7F7F7F;;
     text-decoration: none;
     display:block;
-    width:max-content;
+    width:100%;
 
     padding: 0px 15px;
     margin: 0px 0px;
     display: block;
+
    }
     
    ul.wtf-menu li:hover, ul.wtf-menu li:hover >a{
@@ -178,11 +155,13 @@ ul.wtf-menu{
     color: white;
    }
 
-
+   ul.wtf-menu li.parent:hover:after  {
+    color:white;
+}
 
    .wtf-menu ul.submenu{
     
-    width: 180px;
+    width: 190px;
     padding: 0px 0px;
     margin: 0px;
     background: #fff;
@@ -201,7 +180,7 @@ ul.wtf-menu{
 }
 
 .wtf-menu ul.submenu ul{
-    left: 180px;
+    left: 190px;
     top:0px;
 }
  
@@ -219,11 +198,112 @@ ul.wtf-menu{
     border: none;
 }
 
+ul.wtf-menu ul li.parent:after {
+    font-family: 'Fontawesome';
+    content: "\f0da";
+    color: #999;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    margin-left: 5px;
+}
+
+
 
 .wtf-menu li:hover > ul{
-    display:block;
+    display: block;
+    -moz-animation: zoomIn .3s ease-in;
+    -webkit-animation: zoomIn .3s ease-in ;
+    animation: zoomIn .3s ease-in;
+ 
 }
  
 .wtf-menu ul li:hover > ul{
     display:block;
+    -moz-animation: zoomIn .3s ease-in ;
+    -webkit-animation: zoomIn .3s ease-in ;
+    animation: zoomIn .3s ease-in;
 }
+
+/* 
+
+Fadein Up
+.wtf-menu li:hover > ul{
+    display:block;
+    -moz-animation: fadeInUp .3s ease-in  ;
+    -webkit-animation: fadeInUp .3s ease-in ;
+    animation:fadeInUp .3s ease-in ;
+}
+ 
+.wtf-menu ul li:hover > ul{
+    display:block;
+    -moz-animation: fadeInRight .3s ease-in ;
+    -webkit-animation: fadeInRight .3s ease-in ;
+    animation:fadeInRight .3s ease-in ;
+}
+
+Faedin Down
+.wtf-menu li:hover > ul{
+    display:block;
+    -moz-animation: fadeInDown .3s ease-in ;
+    -webkit-animation: fadeInDown .3s ease-in ;
+    animation:fadeInDown .3s ease-in ;
+}
+ 
+.wtf-menu ul li:hover > ul{
+    display:block;
+    -moz-animation: fadeInLeft .3s ease-in ;
+    -webkit-animation: fadeInLeft .3s ease-in ;
+    animation:fadeInLeft .3s ease-in ;
+}
+
+
+FadeIn
+.wtf-menu li:hover > ul{
+    display:block;
+    -moz-animation: fadeIn .3s ease-in ;
+    -webkit-animation: fadeIn .3s ease-in ;
+    animation:fadeIn  .3s ease-in ;
+ 
+}
+ 
+.wtf-menu ul li:hover > ul{
+    display:block;
+    -moz-animation: fadeIn .3s ease-in ;
+    -webkit-animation: fadeIn .3s ease-in ;
+    animation: fadeIn .3s ease-in;
+}
+
+Zoom in
+
+.wtf-menu li:hover > ul{
+    display: block;
+    -moz-animation: zoomIn .3s ease-in;
+    -webkit-animation: zoomIn .3s ease-in ;
+    animation: zoomIn .3s ease-in;
+ 
+}
+ 
+.wtf-menu ul li:hover > ul{
+    display:block;
+    -moz-animation: zoomIn .3s ease-in ;
+    -webkit-animation: zoomIn .3s ease-in ;
+    animation: zoomIn .3s ease-in;
+}
+
+Flip
+.wtf-menu li:hover > ul{
+    display: block;
+    -moz-animation: flipInX .3s ease-in;
+    -webkit-animation: flipInX .3s ease-in ;
+    animation: flipInX .3s ease-in;
+ 
+}
+ 
+.wtf-menu ul li:hover > ul{
+    display:block;
+    -moz-animation: flipInY .3s ease-in ;
+    -webkit-animation: flipInY .3s ease-in ;
+    animation: flipInY .3s ease-in;
+}
+*/
