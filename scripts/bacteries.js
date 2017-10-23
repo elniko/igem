@@ -12,7 +12,7 @@
         for(var i=0; i<BACTERIE_COUNT; i++) {
             k = 1-k;
             var bacterie = new Bacterie(colors[k]);
-            
+            bacterie.setPosition(container);
             bacteries.push(bacterie);
             container.appendChild(bacterie.element);
         }
@@ -62,21 +62,29 @@
             this.rotation;
             this.element;
 
+            
 
            
             this.changeColor = function(color){
                 Object.assign(this.element.style, {
                     backgroundColor : color//colors[Math.round(Math.random())]
                 });
-
-
             }
+
             this.getRotation = function() {
                 return Math.floor((Math.random() * 360) + 1);
             }
             this.getPosition = function(max){
                 return Math.floor((Math.random() * max) + 1);
             }
+            this.setPosition = function(container){
+                console.log(container.offsetWidth);
+                Object.assign(this.element.style, {
+                    top: this.getPosition(container.offsetHeight-this.width) +'px',
+                    left: this.getPosition(container.offsetWidth-this.width) +'px',
+                });
+            }
+
             this.createElement = function(){
 
                 this.element = document.createElement('div');
@@ -87,8 +95,8 @@
                     borderRadius: '20px',
                     transform: 'rotate('+ this.getRotation() + 'deg)',
                     position:'absolute',
-                    top: this.getPosition(380) +'px',
-                    left: this.getPosition(1596) +'px',
+                    //top: this.getPosition(380) +'px',
+                    //left: this.getPosition(1596) +'px',
                     zIndex:2
                 });
                 
