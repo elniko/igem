@@ -124,6 +124,9 @@ ul.wtf-menu{
     height:50px;
     padding-bottom: 0;
     margin-bottom: 0;
+    text-align: left;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 
